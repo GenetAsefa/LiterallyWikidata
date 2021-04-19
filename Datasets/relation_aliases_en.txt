@@ -1,0 +1,241 @@
+P38	base currency, used money
+P53	house, dynasty, noble family, royal house
+P65	discovery site
+P183	endemism
+P193	building contractor, builder, general contractor, main contractor, prime contractor, built by, constructed by
+P397	star, planetary system, primary, orbits, parent body
+P520	weapon, wields, armed with, ship armament
+P834	depot, rail yard, railway depot
+P1079	launch service provider
+P1951	private investor, investors
+P3093	recovery group, recovery vehicle
+P3815	eruption monitored by, volcano monitored by
+P4661	creates lake, creates reservoir, dam created reservoir, impounds, lake created
+P4792	impounded by
+P7047	arch-enemy of, archenemy of, archfoe of, archnemesis of, archrival of, archvillain of, opponent of, rival of
+P6	president, chancellor, mayor, prime minister, governor, premier, first minister, executive power headed by, government headed by, head of national government
+P17	state, land, sovereign state, host country
+P19	birth location, birthplace, location of birth, POB, birth city, birth place, born at, born in, location born
+P20	POD, deathplace, location of death, death location, death place, died in
+P26	husband, husbands, marriage partner, married, married to, marry, spouses, wed, wedded to, wife, wives
+P27	citizenship, citizen of, national of, subject of (country), (legal) nationality
+P35	leader, president, queen, monarch, king, emperor, governor, state headed by, chief of state
+P36	seat, chef-lieu, county seat, administrative centre, administrative headquarters, capital city, capital town, court residence, has capital, principal place, administrative seat
+P40	son, issue, children, daughter, daughters, has child, has children, has daughter, has daughters, has kid, has kids, has son, has sons, kid, kids, offspring, progeny, sons, descendants, parent of
+P47	border, adjacent to, bordered by, borders, next to
+P50	writer, authors, creator, written by, by, writers, author(s), writer(s)
+P54	team, sport team, club played for, member of team, of team, part of team, played for, player of, plays for, team played for, teams played for
+P57	film director, movie director, directed by
+P58	written by, scriptwriter, film script by, screenplay by, teleplay by, writer (of screenplays), writing credits
+P61	coined, inventor, developer, developed by, created by, invented, discoverer, first described, invented by, inventor or discoverer, discovered by
+P66	ancestral village, native place, native village
+P69	education, faculty, alma mater, alumna of, alumni of, alumnus of, college attended, graduate of, graduated from, school attended, studied at, university attended, attended, place of education, attended school at, education place, schooled at, schooling place, went to school at
+P81	railway line, is on, line connected to, rail line connected to
+P84	architecture firm
+P85	national anthem, march, official song
+P86	songwriter, composed by, music by, musical score by, written by
+P88	client, built for, commissioner, developer, made for, orderer
+P98	compiler, compiled by, edited by, associate editor
+P101	academic discipline, subject, area, field of study, discipline, activity, FOW, scientific discipline, domain, trade, academic area, academic subject, be researcher in, conduct research about, fields, research on, responsible for, scientific area, specialism, speciality, studies, specialty, domain of activity, activity domain, area of work
+P102	political party, party, member of, member of party, party membership, political party member
+P108	employed by, worked at, worked for, working for, working place, works at, works for, working at
+P112	founder, co-founder, co-founded by, established by, founders, started by
+P113	hub, hub airport
+P115	arena, stadium, venue, ground, ballpark, home field, home ground, home water
+P118	sports league, division
+P119	tomb, burial place, buried at, buried in, grave at, interment, location of burial, place of grave, place of interment, resting place, interred at, burial location, interment location, interment place, entombed at, ashes scattered at, remains at
+P123	publishing house, comic book publisher, book publisher, video game publisher, board game publisher, music publisher, software publisher, sheet music publisher, comic publisher, published by, printed music publisher
+P126	maintenance, administrator, custodian, maintainer, administered by
+P127	owner, provenance, shareholder, stockholder, belongs to, is owned by, owners, shareholders, stockholders, belonged to
+P131	city, town, locality, administrative territorial entity, territory, region, state, based in, happens in, in, in administrative unit, in the administrative unit, Indian reservation, is in administrative unit, is in the administrative region of, is in the administrative unit, is in the arrondissement of, is in the borough of, is in the city of, is in the commune of, is in the county of, is in the department of, is in the district of, is in the Indian reservation of, is in the Indian reserve of, is in the local government area of, is in the municipality of, is in the parish of, is in the prefecture of, is in the principal area of, is in the province of, is in the region of, is in the rural city of, is in the settlement of, is in the shire of, is in the state of, is in the territory of, is in the town of, is in the village of, is in the voivodeship of, is in the ward of, is located in, located in administrative unit, located in the administrative territorial entity, located in the administrative unit, located in the territorial entity, location (administrative territorial entity), administrative territory
+P135	school, art movement, artistic movement, music scene, literary movement, philosophical movement, artistic school, trend, scientific movement
+P137	administrator, user, facility operator, item operator, managed by, operated by, service operator, webmaster
+P138	etymology, toponym, eponym, name after, named for, named in honor of, namesake, linked with
+P144	theme, derived from, adaptation of, based upon, adapted from, copy of, extended from, fork of, modeled after, remake of, themed after, modelled after, replica of, cover of
+P155	predecessor, preceded by, succeeds, before was, comes after, prequel is, previous is, sequel of, split from, succeeds to, successor to, prev, previous element
+P159	seat, HQ, based in, garrison, headquarters, admin HQ, head office location, head quarters, HQ location, principle office
+P161	actor, actress, film starring, starring, contestant of a play
+P162	film producer, record producer, produced by
+P166	award, awards, award won, awarded, awards received, honorary title, honors, honours, medals, prize awarded, prize received, recognition title, win, winner of
+P169	ceo, CEO, chief executive, executive director
+P170	painter, sculptor, sculptors, created by, made by, created, artist (non-musical), creators, painters
+P172	people, race, ethnicity, culture, (cultural) nationality
+P175	actor, actress, artist, musician, dancer, musical artist, played by, portrayed by, recorded by, recording by, performed by, sung by
+P176	builder, made by, provided by, assembler, built by, mfr, maker, manufactured by, producer (of product), product of, provider, assembled by
+P177	spans, under, over, bridge over, spanning, through, tunnel under
+P178	developed by, written by, created by
+P179	collection, series, listed in, part of series, issue of
+P180	subject, motif, represents, pictures, depiction of, landscape of, painting of, portrait of, portrays, depicting
+P184	doctoral supervisor, supervisor, advisor, PhD advisor, promotor
+P189	find spot, place of discovery, discovered at:, discovery place, find location, findspot, found in, location of discovered object
+P190	twin town, partner city, partner town, sister city, sister town, twin cities, twin city
+P194	District, parliament, Zila, local government area, assembly, diet, city council, district council, Tehsil, municipal council, LGA, council, rural council, Jila, aboriginal council, indigenous council, representative body
+P195	art collection, archives, museum collection, GLAM, archival holdings, bibliographic collection
+P197	neighbouring station, next station, next stop, previous station
+P199	divisions, has division, has business division
+P200	inflow, inflows, lake inflow, river inflows
+P201	outflow, outflows
+P205	basin countries
+P206	bay, lake, sea, body of water, loc (water), located next to body of water, located on body of water, next to lake, ocean, on bay, on coast of, on harbour, on lake, on river, on shore of, on the coast of, on the shore of, borders body of water
+P241	formation, branch, service branch, unit branch
+P248	originating source, source of claim, in statement
+P263	palace, domicile, home, lives at, lives in, resides at, executive mansion, executive residence, presidential palace, gubernatorial mansion, presidential mansion, state house
+P264	label
+P272	film studio, theatre company, ballet company, studio, motion picture studio, movie studio, theatrical troupe, broadcasting company, production house, theater company, produced by (company), producer (company)
+P276	neighborhood, locality, venue, region, event location, based in, in, locale, is in, located, located in, location of item, moveable object location, place held
+P286	manager, coach, club manager, coached by, led by, senior coach, team manager
+P287	designer, has designer
+P291	location of publication, publication city, publication location, publication place, publication region, published in (place), release region, released in
+P344	cinematographer, Cinematography, DOP
+P361	in, chain, merged into, assembly of, component of, contained within, is part of, merged with, meronym of, part of-property, section of, subassembly of, subgroup of, subsystem of, system of, within, branch of, cadet branch of, collateral branch of, element of
+P371	TV presenter, hostess, TV host, host, presented by, hosted by
+P403	outflow, drain, outlet, river mouth, watercourse drain, watercourse ends in, watercourse outflow, flows into
+P414	exchange, listed on, listed on exchange, listed on stock exchange
+P421	time zone, time, timezone, TZ
+P449	television channel, radio station, radio network, TV channel, broadcast on, channel, first air channel, network, original air channel, original channel, original network
+P450	cosmonaut mission
+P451	SO, lover, partner, significant other, boyfriend, cohabitant, domestic partner, enbyfriend, girlfriend, life partner, romantic partner, sex partner, partners, is partner of, is the partner of, partner of
+P457	constitution, treaty, charter, constitutive text, created by, created in document, enabling law, establishing document, founding document, organic law, established under
+P460	equal to, close to, conspecific with, disputed equivalence, equivalent of, equivalent to, is said to be the same as, is the same as, possibly equivalent to, possibly the same as, said to be different from, same, same as, see also, similar to, the same as, said to be equal to, could be, could be equal to, may be, may be equal to, said to be same as
+P463	membership, band member of
+P466	inhabitant, tenant, resident, lessee, renter, houses, location of, home team
+P469	reservoir on this river
+P485	archive location, correspondence at, papers at
+P488	chair, leader, president, chairman, chairwoman, dean, headed by
+P495	comes from, originates from, CoO, origin (country), place of origin
+P501	enclaved by
+P504	homeport
+P530	foreign relations, ambassadorial relation, ambassadorial relations, diplomatic relation, diplomatic relations, foreign relation, political relation, political relations
+P533	attack target, military target, target of attack
+P551	lives in, home town, hometown, lived in, place of residence, resided at, resided in, resident in, resident of
+P559	termini, end point, trailhead, terminating connection
+P598	commands
+P607	battle, war, military conflict, engagement, in action, in conflict, military engagement, participant in conflict, participated in conflict, theater (military), theatre (military)
+P608	salon, displayed at, exhibited at, shown, shown at
+P609	to, between, from, destination, departure point
+P610	summit, pinnacle, highest peak, zenith, extreme point highest, elevation of highest point
+P631	engineer, building engineer
+P642	in, scope, applies to, in scope of, in the scope of, within scope of, within the scope of
+P664	event producer, organised by, organiser, organising body, organized by, organizing body
+P669	street, road, square, address street, is on, located at street (item), on street
+P676	author, lyricist, words by, writer (of song lyrics)
+P706	geographical region, is on, terrain feature, on, is in, takes place in, loc (terr), location (terrain feature), on geographical feature, on natural feature, located on the terrain feature
+P708	archdiocese, bishopric, archbishopric
+P725	CV, voice actress, VA, seiyu, VO, voice dubber, dubbed by, voice actors, voice actresses, voiced by
+P737	role model, favorite player, has influence, informed by
+P740	comes from, formation location, formed in, founded in, from, originates from, place of formation, place of foundation, place of incorporation, source location of group/organisation
+P749	holding company, holding, parent company, owned by (company or organisation), owned by (company or organization), parent agency, parent organisation, parent unit, part of, subsidiary of, superior formation
+P750	distributor
+P767	assistant, collaborator, contributor, contributor(s) to the subject
+P793	event, outcome, big event, key event, fate, known for, key incident, main events, major event, notable event, notable incident, significant achievment, significant incident, sign. event
+P800	work, artwork, bibliography, creator of, works, significance, famous books, famous for, famous works, known for, literary works, major works, notable books, representative of artwork type, representative work, significant works, they wrote, they created, they designed, they discovered, they invented
+P807	forked from, schism from, seceded from, split from, broke from, branched from
+P825	dedication, dedicatee, tribute to
+P833	OSI, out of station interchange
+P840	location of narrative, narrative set in, playing in, set in location, setting location, takes place in, setting of work, work set in
+P859	patron, endorsed by, sponsored by
+P885	water source, river source, river head, source of a stream, source of watercourse, stream source, water origin
+P915	filming location, filmed at, location of filming, location where filmed, place of filming, place where filmed, shooting location, studio where filmed
+P921	subject, topic, artistic theme, sitter, theme, keyword, about, main topic, index term, subject heading, describes, is about, main issue, main thing, mainly about, mentions, primary subject, primary topic, refers to, topic of work, regards, regarding, in regards to, /common/topic/subject, content deals with, content describes, content is about, has a subject, plot keyword
+P930	electrification type
+P931	city served, serves city, train station serves
+P937	location of work, place of work, work location, workplace, active in, place of activity, work place, working at, work residence, place of employment
+P941	inspiration, source of inspiration
+P945	loyalty, fidelity
+P974	affluent, has inflow of, has river inflow, has tributary, receives river, receives tributary
+P991	elected person, winner of election, elected, election winner, elected candidate, election won by
+P1001	jurisdiction, applied to jurisdiction, applies to territorial jurisdiction, belongs to jurisdiction, country of jurisdiction, linked to jurisdiction, of jurisdiction, valid in jurisdiction
+P1027	presented by, from, awarded by, bestowed by, given by, granted by, by, degree awarded by, degree conferred by, degree from
+P1029	member of crew of
+P1037	director, boss, chief, manager, head, general manager, director general, manager/director
+P1038	family, aunt, grandson, brother-in-law, aunt-in-law, daughter-in-law, relation, cousin, co-brother-in-law, grandfather, grandmother, grandparent, ancestor, son-in-law, family member, sister-in-law, uncle, nephew, nibling, niece, father-in-law, lineal descendant, mother-in-law, co-sister-in-law, grandchild, co-sibling-in-law, descendant, co-husband, co-wife, collateral descendant, grandchildren, granddauther, kinsman, non-binary parent, uncle-in-law
+P1040	editor, edited by
+P1064	gauge
+P1066	professor, supervisor, teacher, master, advisor, academic supervisor, disciple of, mentor, pupil of, studied under, tutor
+P1071	mint, place of origin, assembly location, created at, creation location, location created, location of creation, location of final assembly, location of origin, made in, manufactured in, manufacturing location, minted at, place built, place made, place of manufacture, place of production, production place, written at, place of creation, location of production, production location
+P1158	landing location, landing site
+P1192	halt of
+P1269	aspect of, main topic, section in, subitem of, subject in, subtopic of, topic of
+P1290	godmother, godfather
+P1321	Bürgerort, Heimatort, lieu d'origine, luogo d'origine
+P1327	business partner, collaborator, partner in business, partner in sports, partnered with, partnership with, professional partner, sport partner, sports partner, team mate, team-mate, work partner, writing partner, colleague
+P1336	claimed by, sovereignty claimed by, territorial claim by
+P1343	subject of, entry, described in source, written about in, reviewed in, described by biography, described by encyclopedia, described by reference work, source of item
+P1344	competed in, competes in, participant of, participant of event, participated in, present at, takes part, took part, took part in
+P1363	goal scored by, points scored by, scored by, scorer
+P1365	predecessor, continues from, forefather, preceded by, previous job holder, replaced, succeeds, supersedes, continues
+P1382	coincident with, concurrency, overlaps with, partial concurrency, concurrent with, overlapping with, overlaps, part of (partially), partially in, partially include, partially overlaps
+P1383	populated places within
+P1408	city of license, community of license
+P1411	nomination received, nominee for
+P1416	affiliated with, sister society
+P1427	from, launch pad, launch site, flight origin, journey origin, journey start, launch location, start location, start place
+P1431	showrunner
+P1444	to, destination, finish, end of journey, end point (journey), ending at, journey destination, stopping at
+P1532	sport country, sport nationality, sporting nationality, sports country, sports nationality, representative nationality
+P1589	deepest point, extreme point deepest, extreme point lowest
+P1875	agent, talent agency, manager, rep, managing agent, representative
+P1876	craft, ship, spacecraft, boat, spaceship, vessel, orbiter, used vehicle, uses vehicle, vehicle used
+P1877	artist who inspired this, copy of a work by, inspirational artist, inspiring artist
+P1891	ratified by, first signatories, signatories, signed by
+P1923	teams
+P2321	GC
+P2341	endemic to, native to
+P2348	epoch, sports season, legislative period, historical period, era, historic period, historic era, theatre season
+P2408	period, era, features event, narrative period, narrative time, period covered, set during, set in era, set in time, setting, significant event, takes place in time, time period
+P2438	narrated by
+P2500	level below (league), relegation to
+P2512	has spin-off, spin-offs, TV spin-off, TV spinoff, series spinoff, television series spin-off, television series spinoff, TV series spin-off, TV series spinoff
+P2522	awarded, winner of, won, won event
+P2541	service area, area of operations, area of responsibility, area operated, area served, operating region, region served
+P2554	scenic designer, scenic design by
+P2632	prison, jail, gaol, penitentiary, detained at, detention place, forced exile to, gaoled at, gaoled in, imprisoned at, imprisoned in, in jail, incarcerated at, internment at, internment place, jailed at, penal, place of imprisonment, place of internment, place of confinemant, place of incarceration
+P2652	commercial partnership with
+P2674	downstream crossing adjacent
+P2789	attached to, attaches to, binds to, connected to, connected with, connects to, couples with, intersects at grade, mates with, meets at grade, contacts, affixed to
+P2825	stopover, waystation, called at, calling at, calling point, intermediate point, journey stopover, journey via, route via, routing point
+P2881	promotion, competitor promoted, player promoted, team promoted
+P2882	competitor relegated, player relegated, relegation, team relegated
+P2925	angel of, divine patron, domain of deity or saint, god of, goddess of, guardian of, is patron saint of, patron of, patron saint of, sacred domain, saint or deity domain
+P2936	languages used, working language, working languages
+P3015	backup crew, backup team, reserve crew, reserve team
+P3018	national park, state park, protected area
+P3085	league this event qualifies for
+P3173	has view of, has views of, offers view of, sights, view of, view to, views of, views to
+P3174	artistic director
+P3179	overlaps, partially contains territorial extent, partially located in territorial entity, partly located in territorial entity
+P3275	story artist, visualizer
+P3279	MVP, most valuable player, record setter, statistical leader
+P3300	music director, musical director, conductor, choir director, principal conductor
+P3301	radio station, radio network, TV station, TV channel, radio channel, broadcaster, TV network, streamed by
+P3320	member of the board of directors
+P3342	friend, associated person, friends, key people, key person, notable person, person associated with the subject, associated people, significant people, sign. person
+P3373	sister, brother, sib, half-brother, half-sibling, half-sister, bro, brothers and sisters, siblings, brother or sister, has brother, has sister, sis, sister or brother, brothers, sisters, has sibling, is sibling of, is the sibling of, sisters and brothers, is brother of, is sister of, is the brother of, is the sister of
+P3403	coterminous with, same territory as, territory identical with
+P3450	sport season, is a season of, is season of, season of, season of sports competition, season of sports league, season of sports tournament, seasons of
+P3461	designated as terrorist group by, designated as terrorist organization by
+P3602	candidate in election, election candidacy, candidate in, ran in election, running in election
+P3842	located in present day administrative territorial entity, today part of, would today be located in administrative territorial entity, located in the current administrative territorial entity, located in the present-day administrative territorial entity
+P3931	proprietor, licensor, copyright ‘owner’
+P4320	best climber classification
+P4330	contents, encloses, has contents, holds, stores, surrounds, wraps
+P4552	range, mountain system, hill range, located in mountain range, located on mountain range, mountain belt, parent range, system of mountains
+P4584	debut, first episode, first film, initial appearance
+P4608	set designer, scenic designer, stage designer
+P4614	river basin district, river basin, watershed, catchment area, water basin
+P4777	border, boundary, delimited by, frontier, has 2D boundary, has border
+P4805	makeup artist, visagist
+P4908	television series, TV series, television season, TV season, series of television program
+P5138	season of athletics program, season of club, season of team, sports season of club or team
+P5389	PR
+P5707	samples, samples audio from, samples work, work sampled
+P5940	prequel, narrative continued in, sequel, story continued in
+P6087	club manager of, club manager of sports team, co-manager of, coach of, coach of sports team, goalie coach of, head coach of, manager of, manager of sports team, senior coach of, senior coach of sports team, team manager of, team manager of sports team, trainer of, trainer of sports team
+P6193	ratification, approval, acceptance, accession
+P6379	has work in the collection, has works in the collection(s), work in collection, works in collection, museum housing this person's work
+P6758	fan of sports team, is a fan of team, supports sports team, sports team supported, team supported
+P7153	place associated with the subject, key place, sign. place
+P7938	associated constituency, constituency associated with place, electoral district associated with place, located in electoral district, located in the constituency
+P7959	traditional county, ancient or geographic county, located in historic county of Ireland, located in historic UK county
+P8047	flag state
+P8371	references, alludes to

@@ -1,0 +1,279 @@
+P38	currency used by item
+P53	family, including dynasty and nobility houses. Not family name (use P734 for family name).
+P65	the place where an astronomical object was discovered (observatory, satellite)
+P183	sole location or habitat type where the taxon lives
+P193	the main organization responsible for construction of this structure or building
+P397	major astronomical body the item belongs to
+P520	equippable weapon item for the subject
+P546	intended docking port for a spacecraft
+P834	depot which serves this railway line, not public stations
+P1079	organization contracted to launch the rocket
+P1716	commercial brand associated with the item
+P1840	person or organization involved in investigation of the item
+P1951	individual or organization which invests money in the item for the purpose of obtaining financial return on their investment
+P3093	person, organisation or vehicle that recovered the item. Use the most specific value known.
+P3815	institution that monitors this volcanic landform or phenomenon
+P4661	reservoir created upstream of a dam by this dam
+P4792	construction impounding this watercourse or creating this reservoir
+P7047	opponent character or group of this fictive character or group
+P6	head of the executive power of this town, city, municipality, state, country, or other governmental body
+P17	sovereign state of this item (not to be used for human beings)
+P19	most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character
+P20	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character
+P26	"the subject has the object as their spouse (husband, wife, partner, etc.). Use ""unmarried partner"" (P451) for non-married companions"
+P27	the object is a country that recognizes the subject as its citizen
+P30	continent of which the subject is a part
+P35	official with the highest formal authority in a country/state
+P36	primary city of a country, province, state or other type of administrative territorial entity
+P40	subject has object as child. Do not use for stepchildren
+P47	countries or administrative subdivisions, of equal level, that this item borders, either by land or water. A single common point is enough.
+P50	main creator(s) of a written work (use on works, not humans); use P2093 when Wikidata item is unknown or does not exist
+P54	sports teams or clubs that the subject currently represents or formerly represented
+P57	director(s) of film, TV-series, stageplay, video game or similar
+P58	person(s) who wrote the script for subject item
+P61	subject  who discovered, first described, invented, or developed this discovery or invention
+P66	place of origin for ancestors of subject
+P69	educational institution attended by subject
+P81	railway line(s) subject is directly connected to
+P84	person or architectural firm responsible for designing this building
+P85	subject's official anthem
+P86	"person(s) who wrote the music [for lyricist, use ""lyrics by"" (P676)]"
+P88	person or organization that commissioned this work
+P98	editor of a compiled work such as a book or a periodical (newspaper or an academic journal)
+P101	specialization of a person or organization; see P106 for the occupation
+P102	the political party of which this politician is or has been a member or otherwise affiliated
+P108	person or organization for which the subject works or worked
+P112	founder or co-founder of this organization, religion or place
+P113	airport that serves as a hub for an airline
+P115	home stadium or venue of a sports team or applicable performing arts organization
+P118	league in which team or player plays or has played in
+P119	location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.
+P123	organization or person responsible for publishing books, periodicals, printed music, podcasts, games or software
+P126	person or organization in charge of keeping the subject (for instance an infrastructure) in functioning order
+P127	owner of the subject
+P131	the item is located on the territory of the following administrative entity. Use P276 (location) for specifying locations that are non-administrative places and for items about events
+P135	literary, artistic, scientific or philosophical movement or scene associated with this person or work
+P137	person, profession, or organization that operates the equipment, facility, or service
+P138	"entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier ""applies to name"" (P5168) can be used to indicate which one"
+P144	the work(s) used as the basis for subject item
+P155	"immediately prior item in a series of which the subject is a part [if the subject has replaced the preceding item, e.g. political offices, use ""replaces"" (P1365)]"
+P159	city, where an organization's headquarters is or has been situated. Use P276 qualifier for specific building
+P161	"actor in the subject production [use ""character role"" (P453) and/or ""name of the character role"" (P4633) as qualifiers] [use ""voice actor"" (P725) for voice-only role]"
+P162	person(s) who produced the film, musical work, theatrical production, etc. (for film, this does not include executive producers, associate producers, etc.) [for production company, use P272, video games - use P178]
+P166	award or recognition received by a person, organisation or creative work
+P169	highest-ranking corporate officer appointed as the CEO within an organization
+P170	"maker of this creative work or other object (where no more specific property exists). Paintings with unknown painters, use ""anonymous"" (Q4233718) as value."
+P172	subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themself, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)
+P175	actor, musician, band or other performer associated with this role or musical work
+P176	manufacturer or producer of this product
+P177	obstacle (body of water, road, railway...) which this bridge crosses over or this tunnel goes under
+P178	organisation or person that developed the item
+P179	series which contains the subject
+P180	depicted entity (see also P921: main subject)
+P184	person who supervised the doctorate or PhD thesis of the subject
+P189	where the item was located when discovered
+P190	twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments
+P194	legislative body governing this entity; political institution with elected representatives, such as a parliament/legislature or council
+P195	art, museum, archival, or bibliographic collection the subject is part of
+P197	the stations next to this station, sharing the same line(s)
+P199	organizational divisions of this organization (which are not independent legal entities)
+P200	major inflow sources — rivers, aquifers, glacial runoff, etc. Some terms may not be place names, e.g. none
+P201	rivers and other outflows waterway names. If evaporation or seepage are notable outflows, they may be included. Some terms may not be place names, e.g. evaporation
+P205	country that have drainage to/from or border the body of water
+P206	sea, lake or river
+P237	subject's coat of arms
+P241	branch to which this military unit, award, office, or person belongs, e.g. Royal Navy
+P248	to be used in the references field to refer to the information document or database in which a claim is made; for qualifiers use P805
+P263	the residence at which heads of government and other senior figures officially reside
+P264	brand and trademark associated with the marketing of subject music recordings and music videos
+P272	company that produced this film, audio or performing arts work
+P276	location of the object, structure or event. In the case of an administrative entity as containing item use P131. In the case of a geographic entity use P706
+P286	on-field manager or head coach of a sports club (not to be confused with a general manager P505, which is not a coaching position) or person
+P287	person(s) who designed the item
+P291	geographical place of publication of the edition (use 1st edition when referring to works)
+P344	person responsible for the framing, lighting, and filtration of the subject work
+P361	"object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of ""has part"" (P527, see also ""has parts of the class"" (P2670))."
+P371	someone who takes a main role in presenting a radio or television program or a performing arts show
+P403	the body of water to which the watercourse drains
+P414	exchange on which this company is traded
+P417	patron saint adopted by the subject
+P421	time zone for this item
+P449	network(s) or service(s) that originally broadcasted a radio or television program
+P450	space mission that the subject is or has been a member of (do not include future missions)
+P451	"someone with whom the person is in a relationship without being married. Use ""spouse"" (P26) for married couples"
+P457	text through which an institution or object has been created or established
+P460	this item is said to be the same as that item, but it's uncertain or disputed
+P463	organization, musical group, or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).
+P466	a person or organization occupying property
+P469	lakes, reservoirs, waterfalls the river flows through
+P485	the institution holding the subject's archives
+P488	presiding member of an organization, group or body
+P495	country of origin of this item (creative work, food, phrase, product, etc.)
+P500	territory is legally or politically attached to a main territory with which it is not physically contiguous because of surrounding alien territory. It may also be an enclave.
+P501	territory is entirely surrounded by the other (enclaved)
+P504	"home port of the vessel (if different from ""ship registry""): For civilian ships, the primary port from which the ship operates. Port of registry →P532 should be listed in ""Ship registry"". For warships, this will be the ship's assigned naval base"
+P505	general manager of a sports team. If they are also an on-field manager use P286 instead
+P521	airport or station connected by regular direct service to the subject; for the destination of a trip see P1444
+P530	diplomatic relations of the country
+P532	"ship's port of registry. This is generally painted on the ship's stern (for the ""home port"", see Property:P504)"
+P533	target of an attack or military operation
+P542	person that officially opened the event or place
+P543	person(s) that made the oath at an event, like the Olympic Games
+P545	person that lit the torch at an event, like the Olympic Games
+P551	the place where the person is or has been, resident
+P559	the feature (intersecting road, train station, etc.) at the end of a linear feature
+P598	for persons who are notable as commanding officers, the units they commanded
+P607	battles, wars or other military engagements in which the person or item participated
+P608	exhibitions where the item is or was displayed
+P609	location of the terminus of a linear feature
+P610	point with highest elevation in a region, on a path, of a race
+P631	person, group or organisation responsible for the structural engineering of a building or structure
+P634	captain of this sports team
+P642	qualifier stating that a statement applies within the scope of a particular item
+P647	which team the player was drafted by
+P664	person or institution organizing an event
+P669	"street, road, or square, where the item is located. To add the number, use Property:P670 ""street number"" as qualifier. Use property P6375 if there is no item for the street"
+P674	characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)
+P676	author of song lyrics
+P706	located on the specified landform. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552).
+P708	administrative division of the church to which the element belongs; use P5607 for other types of ecclesiastical territorial entities
+P725	"performer of a spoken role in a creative work such as animation, video game, radio drama, or dubbing over [use ""character role"" (P453) as qualifier] [use ""cast member"" (P161) for live acting]"
+P737	this person, idea, etc. is informed by that other person, idea, etc., e.g. “Heidegger was influenced by Aristotle”
+P740	location where a group or organization was formed
+P749	parent organization of an organization, opposite of subsidiaries (P355)
+P750	distributor of a creative work; distributor for a record label; news agency; film distributor
+P767	person or organization that contributed to a subject: co-creator of a creative work or subject
+P793	significant or notable events associated with the subject
+P800	notable scientific, artistic or literary work, or other work of significance among subject's works
+P807	subject was founded or started by separating from identified object
+P825	person or organization to whom the subject was dedicated
+P833	station to which passengers can transfer to from this station, normally without extra expense
+P840	the narrative of the work is set in this location
+P859	organization or individual that sponsors this item
+P885	main source of a river or stream
+P915	"actual place where this scene/film was shot. For the setting, use ""narrative location"" (P840)"
+P921	primary topic of a work (see also P180: depicts)
+P930	electrification system scheme and/or voltage
+P931	territorial entity or entities served by this transport hub (airport, train station, etc.)
+P937	location where persons were active
+P941	work, human, place or event which inspired this creative work or fictional entity
+P945	country (or other power) that the person or organization serves
+P974	stream or river that flows into a larger river (for lake inflows use P200)
+P991	person(s) elected after the election
+P1001	the item (an institution, law, public office ...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)
+P1027	person or organization who awards a prize to or bestows an honor upon a recipient or that confers a degree
+P1029	person that participated operating or serving aboard this vehicle
+P1037	person who manages any kind of group
+P1038	"family member (qualify with ""type of kinship"", P1039; for direct family member please use specific property)"
+P1040	person who works with the raw footage, selecting shots and combining them into sequences to create a finished motion picture
+P1064	spacing of the rails on a railway track
+P1066	person who has taught this person
+P1071	place where the item was made; where applicable, location of final assembly
+P1075	rector of a university
+P1158	location where the craft landed
+P1192	service stopping at a station
+P1269	topic of which this item is an aspect, item that offers a broader perspective on the same topic
+P1290	person who is the godparent of a given person
+P1302	major cities that a road serves
+P1321	lieu d'origine/Heimatort/luogo d'origine of a Swiss national. Not be confused with place of birth or place of residence
+P1327	professional collaborator
+P1336	administrative divisions that claim control of a given area
+P1343	reference work where this item is described
+P1344	event in which a person or organization was/is a participant; inverse of P710 or P1923
+P1363	person who scored a point or goal in a game
+P1365	"person, state or item replaced. Use ""structure replaces"" (P1398) for structures. Use ""follows"" (P155) if the previous item was not replaced or predecessor and successor are identical"
+P1382	object that is partially part of, but not fully part of (P361), the subject
+P1383	settlement which an administrative division contains
+P1408	place that a radio/TV station is licensed/required to broadcast to
+P1411	"award nomination received by a person, organisation or creative work (inspired from ""award received"" (Property:P166))"
+P1416	organization that a person or organization is affiliated with (not necessarily member of or employed by)
+P1427	starting place of this journey, flight, voyage, trek, migration etc.
+P1431	executive producer of a movie or TV show
+P1444	intended destination for this route (journey, flight, sailing, exploration, migration, etc.)
+P1445	"to link a fictional universe with a work that describes it: <universe> ""described in the work:"" <work>"
+P1532	country a person or a team represents when playing a sport
+P1589	point with lowest elevation in the country, region, city or area
+P1809	person(s) who did the choreography
+P1875	person or agency that represents or manages the subject
+P1876	vessel involved in this mission, voyage or event
+P1877	artist whose work strongly inspired/ was copied in this item
+P1891	person, country, or organization that has signed an official document (use P50 for author)
+P1923	Like 'Participant' (P710) but for teams. For an event like a cycle race or a football match you can use this property to list the teams and P710 to list the individuals (with 'member of sports team' (P54) as a qualifier for the individuals)
+P2321	classification of race participants
+P2341	place that a language, folk dance, cooking style, food, species or other cultural expression is found (or was originally found)
+P2348	time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred
+P2408	historical, contemporary or future period the work is set in or event featured in the story of the work
+P2417	stage results and ranking of a stage race
+P2438	narrator, character or person that tells the story
+P2500	the league below this sports league
+P2505	item (e.g. road, railway, canal) carried by a bridge, a tunnel or a mountain pass
+P2512	series' spin-offs
+P2515	person who designed the costumes for a film, television programme, etc
+P2522	competition or event won by the subject
+P2541	area this organisation operates in, serves or has responsibility for
+P2554	production designer(s) of this motion picture, play, video game or similar
+P2632	place where this person is or was detained
+P2652	commercial partnership between this organization and another organization or institution
+P2674	next crossing of this river, canal, etc. downstream of this subject
+P2789	item with which the item is physically connected
+P2825	intermediate point on a journey - stopover location, waystation or routing point
+P2852	telephone number to contact the emergency services
+P2881	competitor or team relegated during competition
+P2882	competitor or team relegated during competition
+P2925	domain(s) which this saint or deity controls or protects
+P2936	language widely used (spoken or written) in this place or at this event
+P3015	team or crew that is kept ready to act as reserve
+P3018	the protected area a place or geographical feature belongs to
+P3085	this event qualifies for that event
+P3092	member of the crew creating an audiovisual work, used for miscellaneous roles qualified with the job title when no specific property exists. Don't use if such a property is available: notably for cast member (P161), director (P57), etc.
+P3173	things, places another place offers views on
+P3174	person credited as the art director/artistic director of this work
+P3179	part or all of the area associated with (this) entity overlaps part or all of the area associated with that entity
+P3275	person credited as the storyboard artist of this work
+P3279	leader of a sports tournament in one of statistical qualities (points, assists, rebounds etc.). Don't use for overall winner. Use a qualifier to link to the item about the quality.
+P3300	the person who directs a musical group, orchestra or chorus
+P3301	the channel, network, website or service that broadcast this item over radio, TV or the Internet
+P3320	member(s) of the board for the organization
+P3342	person linked to the item in any possible way
+P3373	"the subject has the object as their sibling (brother, sister, etc.). Use ""relative"" (P1038) for siblings-in-law (brother-in-law, sister-in-law, etc.) and step-siblings (step-brothers, step-sisters, etc.)"
+P3403	this item has the same boundary as the target item; area associated with (this) entity is identical with the area associated with that entity
+P3450	"property that shows the competition of which the item is a season. Use P5138 for ""season of club or team""."
+P3461	country or organization that has officially designated a given group as a terrorist organization (e.g. for India, listed on http://mha.nic.in/BO )
+P3496	teams classification by points
+P3497	teams classification by time
+P3602	election where the subject is a candidate
+P3730	"higher rank or level in a ranked hierarchy like sport league, military ranks. If there are several possible, list each one and qualify with ""criterion used"" (P1013), avoid using ranks and date qualifiers. For sports leagues/taxa, use specific properties instead."
+P3842	the item was located in the territory of this present-day administrative unit; however the two did not at any point coexist in time
+P3931	person or organisation who holds the copyright of a work according to the Berne Convention
+P3967	final event of a competition
+P4320	person ranked for this cycling stage or race
+P4321	"person ranked as ""best combative"" for this cycling stage or race"
+P4322	"person ranked as ""best sprinter"" for this cycling stage or race"
+P4323	person ranked as young participant for this cycling stage or race
+P4324	"person ranked in ""best at combination"" for this cycling stage or race"
+P4330	item or substance located within this item but not part of it
+P4552	range or subrange to which the geographical item belongs
+P4584	work in which a fictional/mythical character or entity first appeared
+P4608	person who designed the stage or film set of this item
+P4614	area where precipitation collects and drains off into a common outlet, such as into a river, bay, or other body of water
+P4777	element that's on the two dimensional border that surrounds the subject; the limit of an entity
+P4805	person responsible for the make-up of cast members in a theatrical production, TV or film
+P4908	season of a television show or podcast series
+P5138	club or team that played the season
+P5353	school district to which a settlement or other item belongs
+P5389	country or region that person have the legal status of permanent resident
+P5707	audio or video which this work uses an excerpt of
+P5940	a narrative of this creative work is expanded in another work while '''not necessarily''' being part of the same series. For series use P179 instead
+P6087	sports club for which this person is on-field manager or coach
+P6193	used to specify that a treaty has been ratified by a given state or subject of international law
+P6275	person or organisation who represents the copyright for this person or work of art
+P6379	collection that has works of this person
+P6758	sports team for which a person or a group is a supporter
+P6885	geographic area which at some point in time had a cultural, ethnic, linguistic or political basis, regardless of present-day borders
+P6942	person creating animated sequences out of still images
+P7153	significant or notable places associated with the subject
+P7938	constituencies/electoral districts in which a place is located or is part of. If a municipality/county is split into or part of several districts: add several values. Use only if distinct from administrative entities (P131) in predefined countries
+P7959	traditional, geographical division of Great Britain and Ireland
+P8047	country where a ship is or has been registered
+P8345	this creative work belongs to this media franchise
+P8371	"creative work, tradition or theory this creative work references by allusion, quote or similar means (for citations in scholarly and legal works use P2860, for other more specific properties have a look at ""see also"" on the property page)"
