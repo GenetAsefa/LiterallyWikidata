@@ -1,0 +1,235 @@
+P1081	Human Development Index
+P1082	population
+P1083	maximum capacity
+P1087	Elo rating
+P1092	total produced
+P1093	gross tonnage
+P1096	orbital eccentricity
+P1098	number of speakers
+P1100	number of cylinders
+P1101	floors above ground
+P1102	flattening
+P1103	number of platform tracks
+P1104	number of pages
+P1110	attendance
+P1113	number of episodes
+P1114	quantity
+P1120	number of deaths
+P1125	Gini coefficient
+P1128	employees
+P1132	number of participants
+P1139	floors below ground
+P1174	visitors per year
+P1198	unemployment rate
+P1215	apparent magnitude
+P1279	inflation rate
+P1301	number of elevators
+P1314	number of spans
+P1339	number of injured
+P1342	number of seats
+P1350	number of matches played/races/starts
+P1351	number of points/goals/set scored
+P1352	ranking
+P1358	points for
+P1359	number of points/goals conceded
+P1373	daily patronage
+P1410	number of representatives in an organization/legislature or won in elections
+P1418	orbits completed
+P1457	absolute magnitude
+P1538	number of households
+P1539	female population
+P1540	male population
+P1548	maximum Strahler number
+P1561	number of survivors
+P1603	number of cases
+P1661	Alexa rank
+P1697	total valid votes
+P1831	electorate
+P1867	eligible voters
+P1868	ballots cast
+P1971	number of children
+P2021	Erdős number
+P2043	length
+P2044	elevation above sea level
+P2045	orbital inclination
+P2046	area
+P2047	duration
+P2048	height
+P2049	width
+P2052	speed
+P2053	watershed area
+P2054	density
+P2067	mass
+P2073	vehicle range
+P2076	temperature
+P2109	installed capacity
+P2120	radius
+P2121	prize money
+P2124	member count
+P2130	cost
+P2131	nominal GDP
+P2132	nominal GDP per capita
+P2134	total reserves
+P2137	total equity
+P2138	total liabilities
+P2139	total revenue
+P2142	box office
+P2144	frequency
+P2146	orbital period
+P2151	focal length
+P2196	students count
+P2208	average shot length
+P2213	longitude of ascending node
+P2217	cruise speed
+P2218	net worth
+P2219	real gross domestic product growth rate
+P2225	discharge
+P2226	market capitalization
+P2233	semi-major axis of an orbit
+P2234	volume as quantity
+P2243	apoapsis
+P2244	periapsis
+P2248	argument of periapsis
+P2250	life expectancy
+P2257	event interval
+P2261	beam
+P2262	draft
+P2284	price
+P2295	net profit
+P2299	PPP GDP per capita
+P2324	quantity buried
+P2325	mean anomaly
+P2351	number of graves
+P2386	diameter
+P2402	total expenditure
+P2403	total assets
+P2415	personal best
+P2436	voltage
+P2437	number of seasons
+P2532	lowest atmospheric pressure
+P2547	perimeter
+P2555	fee
+P2573	number of out-of-school children
+P2583	distance from Earth
+P2595	maximum gradient
+P2630	cost of damage
+P2635	number of parts of this work
+P2659	topographic isolation
+P2660	topographic prominence
+P2663	common equity tier 1 capital ratio (CETI)
+P2769	budget
+P2787	longest span
+P2790	net tonnage
+P2791	power consumed
+P2793	clearance
+P2855	VAT-rate
+P2873	time in space
+P2884	mains voltage
+P2895	maximum sustained winds
+P2907	UTC timezone offset
+P2923	focal height
+P2927	water as percent of area
+P2929	lighthouse range
+P2997	age of majority
+P2998	age of candidacy
+P2999	age of consent
+P3000	marriageable age
+P3001	retirement age
+P3020	residence time of water
+P3086	speed limit
+P3087	fiscal/tax revenue
+P3157	event distance
+P3270	compulsory education (minimum age)
+P3271	compulsory education (maximum age)
+P3362	operating income
+P3457	case fatality rate
+P3529	median income
+P3737	maximum wavelength of sensitivity
+P3738	minimum wavelength of sensitivity
+P3744	number of subscribers
+P3864	suicide rate
+P3872	patronage
+P3983	sports league level
+P4010	GDP (PPP)
+P4080	number of houses
+P4103	assets under management
+P4341	synodic period
+P4350	salinity
+P4442	mean age
+P4501	albedo
+P4511	vertical depth
+P4519	payload mass
+P4841	total fertility rate
+P5043	number of abstentions
+P5044	number of spoilt votes
+P5045	number of blank votes
+P5141	coastline
+P5167	vehicles per thousand people
+P5595	number of platform faces
+P5822	admission rate
+P5894	tuition fee
+P5982	annual number of weddings
+P6343	urban population
+P6344	rural population
+P6498	illiterate population
+P6499	literate population
+P6509	total goals in career
+P6543	total shots in career
+P6544	total points in career
+P6545	total assists in career
+P6546	penalty minutes in career
+P6547	career plus-minus rating
+P6589	endowment
+P6590	highest break
+P6591	maximum temperature record
+P6697	Football Money League rank
+P6794	minimum wage
+P6801	number of hospital beds
+P6897	literacy rate
+P7015	surface gravity
+P7297	cumulative elevation gain
+P7422	minimum temperature record
+P8010	number of recoveries
+P8328	Democracy Index
+P8340	estimated value
+P8476	BTI Governance Index
+P8477	BTI Status Index
+P569	date of birth
+P570	date of death
+P571	inception
+P575	time of discovery or invention
+P576	dissolved, abolished or demolished date
+P577	publication date
+P580	start time
+P582	end time
+P585	point in time
+P606	first flight
+P619	UTC date of spacecraft launch
+P620	time of spacecraft landing
+P621	time of spacecraft orbit decay
+P622	spacecraft docking/undocking date
+P729	service entry
+P730	service retirement
+P746	date of disappearance
+P1191	date of first performance
+P1249	time of earliest written record
+P1317	floruit
+P1619	date of official opening
+P1636	date of baptism in early childhood
+P2031	work period (start)
+P2032	work period (end)
+P2669	discontinued date
+P2754	production date
+P2913	date depicted
+P3893	public domain date
+P3999	date of official closure
+P4602	date of burial or cremation
+P6949	announcement date
+P7295	Gregorian calendar start date
+P625	coordinate location
+P1332	coordinates of northernmost point
+P1333	coordinates of southernmost point
+P1334	coordinates of easternmost point
+P1335	coordinates of westernmost point
+P2786	aerodrome reference point
+P5140	coordinates of geographic center

@@ -1,0 +1,235 @@
+P1081	HDI value of a country
+P1082	number of people inhabiting the place; number of people of subject
+P1083	number of people allowed for a venue or vehicle
+P1087	quantitative measure of one's game-playing ability, particularly in classical chess
+P1092	quantity of item produced
+P1093	unitless index related to a ship's overall internal volume
+P1096	amount of the deviation of an orbit from a perfect circle
+P1098	number of people who speak a language
+P1100	number of cylinders in a piston engine or compressor
+P1101	above ground floor count of a building (ground floor and attic included)
+P1102	measure of the compression of an ellipsoid of revolution
+P1103	number of tracks served by the platforms at a railway station
+P1104	"number of pages in an edition of a written work. ""Roman-numbered page"" (Q56761382) can be used as unit for such pages."
+P1110	number of people (spectators, ticket holders) at an event or exhibition
+P1113	number of episodes in a film/TV/radio series
+P1114	number of instances of this subject
+P1120	total (cumulative) number of people who died since start as a direct result of an event or cause
+P1125	measure of statistical dispersion intended to represent the income distribution of a nation's residents
+P1128	total number of employees of a company at a given point in time
+P1132	number of participants of an event, e.g. people or groups of people that take part in the event (NO units)
+P1139	total number of below ground floors of the building
+P1174	number of people visiting a location or an event each year
+P1198	portion of a workforce population that is not employed
+P1215	measurement of the brightness of an astronomic object, as seen from the Earth
+P1279	percent change in the consumer price index (CPI)
+P1301	number of elevators in a building
+P1314	number of spans a bridge has
+P1339	number of people with non-fatal injuries in an event
+P1342	number of seats/members in an assembly (legislative house or similar)
+P1350	matches or games a player or a team played during an event. Also a total number of matches a player officially appeared in during the whole career.
+P1351	goals / points scored in a match or an event used as qualifier to the participant. Use P1358 for league points.
+P1352	subject's numbered position within a competition or group of performers
+P1358	number of points in a league table or decathlon. (Use P1351 for goals/points in a match)
+P1359	points conceded or goals against (use in league table items)
+P1373	number of daily passengers, patrons or visitors in specified time period
+P1410	number of seats a political party, faction, or group has in a given legislature or won in elections
+P1418	number of orbits a spacecraft has done around a body
+P1457	absolute magnitude of an astronomic object
+P1538	total number of households in this place, includes dwellings of all types
+P1539	number of female people inhabiting the place; number of female people of subject
+P1540	number of male people inhabiting the place; number of male people of subject
+P1548	highest Strahler number of a stream, creek, or river
+P1561	number of people surviving an event
+P1603	cumulative number of confirmed, probable and suspected occurrences
+P1661	the website's Alexa ranking with P585 as a qualifier for each value; the current value should be marked 'preferred'
+P1697	vote count for the elections (excluding invalid votes)
+P1831	number of persons qualified to vote during elections
+P1867	number of eligible voters for a particular election
+P1868	total number of ballot(s) cast, including invalid or blank ballots
+P1971	number of children of the person
+P2021	"the ""collaborative distance"" between mathematician Paul Erdős and another person. Use point in time (P585) as qualifier and should be used with a source."
+P2043	measured dimension of an object
+P2044	height of the item (geographical object) as measured relative to sea level
+P2045	orbital inclination of a stable orbit
+P2046	area occupied by an object
+P2047	length of time of an event or process
+P2048	vertical length of an entity
+P2049	width of an object
+P2052	magnitude of the velocity of the item
+P2053	size of a stream's watershed (drainage basin)
+P2054	density of a substance with phase of matter and temperature as qualifiers
+P2067	mass (in colloquial usage also known as weight) of the item
+P2073	distance a vehicle can travel without refuelling
+P2076	qualifier to indicate at what temperature something took place
+P2109	power produced by the engine or plant (use with unit of power)
+P2120	distance between the center and the surface of a circle or sphere
+P2121	amount in a specific currency
+P2124	number of people who are part of an organization at a particular time
+P2130	amount of money spent on building or producing an object
+P2131	market value of all officially recognized final goods and services produced within a country in a given period of time
+P2132	country's total GDP divided by the population
+P2134	total reserves comprise holdings of monetary gold, special drawing rights, reserves of IMF members held by the IMF, and holdings of foreign exchange under the control of monetary authorities
+P2137	amount of equity value for an entity
+P2138	sum of all debts and other future sacrifices of economic benefits that an entity is obliged to make
+P2139	income gained by an organization during a given time frame. Not to be confused with fiscal revenue
+P2142	box office takings accumulated by a film
+P2144	frequency in Hz at which the subject works, for example the frequency a radio station can be received
+P2146	the time taken for a given astronomic object to make one complete orbit about another object
+P2151	focal length of lens (telescope, etc.)
+P2196	number of students of any type in an educational organization
+P2208	cinemetrical measure
+P2213	property of one of the orbital elements used to specify the orbit of an object in space
+P2217	design cruise speed
+P2218	totality of wealth possessed by a person
+P2219	percentage change in nominal GDP from one year to the next minus the inflation rate
+P2225	volume rate of water flow which is transported through a given cross-sectional area
+P2226	total value of issued shares by a publicly traded company
+P2233	semi-major axis of a stable orbit (Astronomy)
+P2234	quantity of three-dimensional space
+P2243	distance, at which a celestial body is the farthest to the object it orbits
+P2244	distance, at which a celestial body is the closest to the object it orbits
+P2248	angle from the body's ascending node to its periapsis
+P2250	average life expectancy for this group or species
+P2257	"standard nominal interval between scheduled or regularly recurring events. Include unit of time, e.g. ""year"" (Q577)"
+P2261	width of a ship at its widest point measured at its nominal waterline
+P2262	depth below the water line to the bottom of a vessel's hull
+P2284	published price listed or paid for a product (use with unit of currency)
+P2295	private entity profit after accounting for all costs
+P2299	GDP divided by the population total and adjusted for CPI
+P2324	number of remains buried or interred
+P2325	element of orbital definition
+P2351	number of burial places In a cemetery or necropolis
+P2386	the diameter of a circular or spherical object
+P2402	amount of spending by this public or private entity, not to be confused with fiscal expenditure
+P2403	value of assets held by a private or public entity
+P2415	an individual's best performance in a given discipline
+P2436	difference in electric potential between two points (indicated in volt)
+P2437	number of seasons a television or radio series has had
+P2532	minimum pressure measured or estimated for a storm (a measure of strength for tropical cyclones)
+P2547	linear distance around the outside of an object
+P2555	fee or toll payable to use, transit or enter the subject (only for one-time fees, do NOT use it for an ongoing fee, tuition fee or trading fee)
+P2573	number of out-of-school children reported for a place
+P2583	estimated distance to astronomical objects
+P2595	maximum gradient on a route, expressed as a percentage
+P2630	monetary value of damage caused by this event
+P2635	the number of parts that a work consists of
+P2659	minimum distance to a point of higher  elevation
+P2660	height of a mountain or hill relative to the lowest contour line encircling it (on Earth, maximum 8,848 m)
+P2663	relation between the core capital or shareholder's equity of a Bank and its risk-weighted assets
+P2769	assigned monetary amount for a project (for the estimated cost of a film, also commonly referred to as budget, use P2130)
+P2787	length of the longest span of a bridge, a natural arch
+P2790	dimensionless index calculated from the total moulded volume of the ship's cargo spaces by using a mathematical formula
+P2791	electrical power consumed by an appliance
+P2793	distance between surface under bridge and bottom of a bridge deck
+P2855	percentage value-added tax in this country or region. Do not use for sales tax. For specialised rates, use qualifiers
+P2873	time in space by an astronaut or cosmonaut
+P2884	voltage of residential mains electricity in a country or region
+P2895	maximum sustained wind evaluated by agency
+P2907	difference between Coordinated Universal Time (UTC) and this timezone
+P2923	height of the lamp of a lighthouse from water level
+P2927	"which percentage of the territory of this item inside coast line and international bounderies is water. Use ""percent"" (Q11229)  as unit"
+P2929	"the distance at which the light can be seen. If the light has colors, there will be several ranges, one for each color. Use qualifier ""color"" (P462)"
+P2997	"threshold of adulthood as recognized or declared in law. Use qualifiers ""statement is subject of"" (P805) to link to item for articles with more detail. Use ""start time"" (P580) or ""point in time"" (P585) for historic data"
+P2998	minimum age at which a person can legally qualify to hold certain elected government offices
+P2999	youngest age at which a person can legally consent to sexual activity
+P3000	"minimum age at which a person is generally allowed by law to marry. Use qualifier ""applies to part"" (P518), to specify if it applies only to males (Q6581097), females (Q6581072) or both genders (Q27177113)"
+P3001	the age at which most people normally retire from work
+P3020	residence time of water in a lake or sea
+P3086	maximum speed allowed on a transport route or in a certain area
+P3087	fiscal revenue of a public entity
+P3157	distance over which a race or other event is conducted or was achieved
+P3270	"minimum age for children when compulsory education starts. Qualifiers: ""subject of"" to link to more detail. If applicable, use qualifier P31 with value ""varies by state/province"" (Q27145860). Use ""start time"" or ""point in time"" for historic data."
+P3271	"maximum age for children when compulsory education ends. Qualifiers: ""subject of"" to link to more detail. If applicable, use qualifier P31 with value ""varies by state/province"" (Q27145860). Use ""start time"" or ""point in time"" for historic data."
+P3362	private entity operating income
+P3457	proportion of patients who die of a particular medical condition out of all who have this condition within a given time frame
+P3529	median household income in a place
+P3737	maximum wavelength that the item can detect
+P3738	minimum wavelength that the item can detect
+P3744	number of subscribers for subscription based companies, e.g. telecommunication companies, newspapers, pay-TV channels, etc.
+P3864	amount of suicides per 100,000 people in the place or group
+P3872	number of passengers, patrons or visitors in specified time period
+P3983	the level of the sport league in the sport league system
+P4010	gross domestic product (GDP) at purchasing power parity (current international $)
+P4080	number of houses in given territorial entity
+P4103	total market value of financial assets which a financial institution manages on behalf of its clients and itself
+P4341	time between two passes of an object in front of a distant star seen from another orbiting object
+P4350	amount of dissolved salt in a body of water
+P4442	mean age in a given place; qualify with P585
+P4501	ratio of reflected radiation to incident radiation
+P4511	"vertical distance from a horizontal area to a point below. Compare with ""horizontal depth"" (P5524)"
+P4519	amount of mass that can be transported by the vehicle
+P4841	average number of children that would be born to a woman over her lifetime
+P5043	number of abstentions in a voting round of a election
+P5044	number of spoilt votes in a voting round for a specfic position in a election
+P5045	number of blank votes in a voting round for a specific position in a election
+P5141	"length of the coastline (sea shore) of the region. Use qualifier ""determination method"" (P459) to define how it's determined/which granularity is used."
+P5167	number of vehicles per 1000 people. Use qualifier determination method (P459) to describe how it's done.
+P5595	number of continuous platform edges facing a track or vehicle guideway in a station (often, but not always, the same as P1103 and the number of platform numbers). See property talk page for illustrated samples
+P5822	ratio of the number of applicants admitted to the total number of applicants
+P5894	the tuition fee at an educational instition (default duration:1 year, use duration qualifier to specify)
+P5982	number of marriages per year in a location
+P6343	number of people living within the territorial entity who live in its urban parts
+P6344	number of people living within the territorial entity who live in its rural parts
+P6498	number of illiterate people within a territorial entity (typically determined during a census)
+P6499	number of literate people within a territorial entity (typically determined during a census)
+P6509	goalscoring statistic
+P6543	sports statistic
+P6544	sports statistic
+P6545	goalscoring statistic
+P6546	sports statistic
+P6547	sports statistic
+P6589	sum of donations for the ongoing support of a not-for-profit institution
+P6590	highest break made by a snooker player in their career or in a tournament
+P6591	maximum temperature reached at this location
+P6697	rank in the Deloitte Football Money League
+P6794	lowest wage which can be paid legally in a state for working
+P6801	number of inpatient beds
+P6897	percentage of the population that is not illiterate
+P7015	gravitational acceleration experienced at the equator of an astronomical body surface
+P7297	measure of the difference in height between two points on the terrain, when following a track
+P7422	lowest temperature reached at this location
+P8010	number of cases that recovered from disease
+P8328	Democracy Index rating of a country
+P8340	estimated value of a house, company, patent, etc
+P8476	measures change of countries towards democracy and market economy
+P8477	measures change of countries towards democracy and market economy
+P569	date on which the subject was born
+P570	date on which the subject died
+P571	date or point in time when the subject came into existence as defined
+P575	date or point in time when the item was discovered or invented
+P576	"point in time at which the subject (organisation, building) ceased to exist;  see ""date of official closure"" (P3999) for closing a facility, ""service retirement"" (P730) for retiring equipment,  ""discontinued date"" (P2669) for stopping a product"
+P577	date or point in time when a work was first published or released
+P580	time an item begins to exist or a statement starts being valid
+P582	time an item ceases to exist or a statement stops being valid
+P585	time and date something took place, existed or a statement was true
+P606	date or point in time on which aircraft or rocket first flew
+P619	year-month-day of spacecraft launch not adjusted by timezone or other offset
+P620	date and time of spacecraft landing in UTC
+P621	date and time of spacecraft orbit decay in UTC
+P622	date and time of spacecraft docking or undocking event, in UTC
+P729	date or point in time on which a piece or class of equipment entered operational service
+P730	date or point in time on which a piece or class of equipment was retired from operational service
+P746	date or point of time a missing person was seen or otherwise known to be alive for the last time
+P1191	date a work was first debuted, performed or live-broadcasted
+P1249	first time a subject was mentioned in writing
+P1317	date when the person was known to be active or alive, when birth or death not documented
+P1619	date or point in time an event, museum, theater etc. officially opened
+P1636	date when a person was baptized. For times when only baptism records were available, this can be a good substitute for date of birth.
+P2031	"start of period during which a person or group flourished (fl. = ""floruit"") in their professional activity"
+P2032	"end of period during which a person or group flourished (fl. = ""floruit"") in their professional activity"
+P2669	"date that the availability of a product was discontinued; see also ""dissolved, abolished or demolished"" (P576)"
+P2754	"date the production of a film/audio drama was completed (""production year"") when much earlier than publication date. Also for some other works (opera?). In general, use ""inception"" (P571). Note ""date of first performance"" (P1191) for theatre/opera."
+P2913	date represented in a work
+P3893	date the item enters into the public domain in a jurisdiction
+P3999	date of official closure of a building or event
+P4602	date on which the person was buried or cremated soon after death
+P6949	time of the first public presentation of a subject by the creator, of information by the media
+P7295	date the Gregorian calendar was first used
+P625	geocoordinates of the subject. For Earth, please note that only WGS84 coordinating system is supported at the moment
+P1332	northernmost point of a location. For an administrative entity this includes offshore islands
+P1333	southernmost point of a place. For administrative entities this includes offshore islands
+P1334	easternmost point of a location
+P1335	westernmost point of a location
+P2786	official coordinates for airport
+P5140	"coordinates of the center of an area. Use qualifier ""determination method"" (P459) to indicate how"

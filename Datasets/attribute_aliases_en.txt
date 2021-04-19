@@ -1,0 +1,185 @@
+P1081	HDI
+P1082	human population, inhabitants
+P1083	complement, crew, capacity, number of seats, seating capacity, seats
+P1092	circulation, number built, number made, number produced, qty built, qty made, qty produced, total built, total made
+P1093	GT, GRT, ship gross tonnage, tonnage gross
+P1096	eccentricity
+P1098	speakers of language
+P1101	number of floors, stories, floor count, storeys
+P1102	oblateness, ellipticity
+P1103	Tracks, platform tracks
+P1104	pages, page count
+P1110	spectators
+P1113	episodes, episode count, series length
+P1114	total, amount, number, count, multiplicity, number of instances, qty, total number
+P1120	dead, death count, death toll, deaths, fatalities, number of fatalities, qty deaths, qty fatalities, death number
+P1128	Staff, employee count, number of employees, personnel, workers
+P1132	participants, number of teams, participant count, qty participants
+P1139	basement floors, underground floors
+P1174	annual visitors, yearly visitors
+P1279	consumer price index inflation rate, CPI inflation rate, inflation rate of consumer price index
+P1301	# of elevators, # of lifts, elevators, lifts
+P1314	number of arches of a bridge, span count, spans
+P1339	injured, injuries, injury toll, non-fatal injuries, number injured, wounded
+P1342	membership quantity, number of seats (members), quantity of members, seats (members)
+P1350	games pitched, appearances, caps, games played, gp, matches played, mp, number of games played, races, starts
+P1351	GF, goals for, goals scored, number of goals, number of points, points scored, score for
+P1352	position, place, rank, peak position, placing
+P1358	PTS, pf, points, championship points, competition points, league points
+P1359	GA, goals against
+P1373	daily ridership
+P1410	number of seats, seats
+P1538	dwellings, households
+P1540	male inhabitants, number of males
+P1561	survivors
+P1603	case number, cases reported, infections reported, number infected, number of infections, number of occurrences, occurrences reported, total number of cases
+P1697	formal votes, valid votes
+P1867	registered voters, total voters
+P1868	total vote count, total votes, turnout
+P1971	children, kids, children (number), no of children, no. of children
+P2021	Erdos number
+P2043	size, dimension, distance, long
+P2044	altitude, height, elevation, MASL, AMSL, EASL, elevation above mean sea level, MAMSL
+P2045	inclination
+P2046	size, surface, surface area, acreage, total area
+P2047	interval, length, period, era, time interval, timespan, run time, runtime, length of time, running length, running time, time span, cook time
+P2048	size, depth over terrain, heighth
+P2049	size, breadth
+P2052	velocity
+P2053	drainage basin, basin area, catchment basin, size of watershed
+P2054	specific gravity
+P2067	atomic weight, mass, weight, displacement, molar mass, atomic mass, molecular mass
+P2073	range, maximum range, operational range
+P2109	capacity, generating capacity, installed capacity, nameplate capacity, nominal power, power capacity, power output, rated power
+P2121	value, money, purse
+P2124	membership, amount of members, number of members
+P2130	budget, unit cost
+P2131	GDP, gross domestic product, GDP, nominal, nominal GDP, nominal gross domestic product
+P2132	GDP (nominal) per capita, gdp per capita, GDP per capita, nominal, Gross domestic product per capita
+P2137	equity, shareholder equity
+P2138	liabilities
+P2139	income, revenue, turnover, sales, gross revenue
+P2142	earnings
+P2146	sidereal period, revolution period
+P2196	enrollment, count of students, number of students, student count
+P2208	ASL
+P2218	wealth, net worth, declared patrimony, estimated net worth, net worth estimate
+P2219	real GDP growth rate
+P2226	market cap, market capitalisation
+P2233	major semi-axis of an orbit, major semiaxis of an orbit, orbital semi-major axis, semi major axis, semimajor axis of an orbit
+P2234	volume (geometry), liquid capacity, fluid capacity, quantity as volume, spatial volume, tonnage
+P2243	aphelion, Apsis
+P2244	perihelion
+P2248	argument of periastron, argument of pericenter, argument of perifocus, argument of perigee, argument of perihelion, ω
+P2250	life span, lifespan
+P2257	interval, event frequency, period, time period of periodically occurring event, 1/(event frequency), frequency of event
+P2261	BOA, width
+P2262	draught
+P2284	value, list price, MSRP, cost, exchange rate, published price, purchase price
+P2295	bottom line, clear gain, clear profit, net earnings, net income, net return, profit
+P2299	GDP (PPP) per capita, GDP per capita based on purchasing power parity, GDP per capita, PPP, gross domestic product (at purchasing power parity) per capita
+P2324	burials, number of people buried
+P2351	capacity cemetery, total number of graves
+P2386	diametre
+P2402	expense, expenses, spending
+P2403	assets, balance sheet total
+P2415	PR, PB, record, personal record
+P2436	electric tension, electromotive force, electric potential difference, electric pressure, potential difference
+P2437	number of series, seasons
+P2532	lowest pressure
+P2547	boundary length, circumference, coastline
+P2555	entrance fees, entry fee, fare, onetime fee, toll
+P2573	number of out of school children
+P2583	angular diameter distance, comoving distance, light-travel distance, light-year distance, luminosity distance, parsec distance, proper distance
+P2595	max gradient, max slop, maximum slope, ruling grade, maximum incline
+P2630	damage, amount of damage, value of damage
+P2635	chapter count, chapters quantity, movement count, movements quantity, number of chapters, number of issues, number of movements, number of parts of this work of art, number of pictures, number of scenes, number of segments of anthology film, number of songs, number of stanzas, number of tracks, number of tracks on release, number of volumes, picture count, pictures quantity, stanza count, stanzas quantity, track count, tracks quantity, component count, composed of x parts, comprises x parts, consists of x parts, acts count, acts number, acts quantity, composed of x acts, comprises x acts, consists of x acts, contains x acts, number of acts
+P2659	isolation
+P2660	prominence
+P2663	CETI, CET1, CET1-ratio
+P2787	length of longest span, length of main span, longest span length, main span, main span length, span length (longest), span length (main)
+P2793	height, bridge height, clearance below, height of deck bottom, span height, air draft, height above water, height above valley floor, deck height, height above ground, air draught
+P2855	value-added tax rate, VAT, VAT rate
+P2884	mains electricity voltage
+P2895	highest sustained winds, highest wind speed, maximum wind speed, strongest sustained winds, sustained winds, wind speed
+P2907	offset from UTC, UTC offset of timezone
+P2923	height of focal plane
+P2927	H₂O%, percent of area that is water
+P2929	range of lighthouse light
+P2998	minimum age of candidacy
+P2999	consent age
+P3000	marriage age, minimum age for marriage
+P3020	retention time, lake retention time, lake residence time, water residence time, water retention time
+P3086	maximum speed, operating speed
+P3157	race distance, stage distance
+P3362	earnings before interest and taxes, EBIT, operating profit
+P3457	CFR, case fatality, case fatality ratio, case fatality risk, fatality rate
+P3529	median household income
+P3737	max wavelength, maximum wavelength of electromagnetic sensitivity
+P3738	min wavelength, minimum wavelength of electromagnetic sensitivity
+P3744	followers, number of followers, subscribers, subscriber number, follower count, sub count, subs, subscriber count
+P3872	customers, ridership, number of visitors, patrons, visitors, users, riders, passengers
+P3983	level on league pyramid, level on pyramid, level on sport league pyramid, sport league level
+P4010	GDP PPP, PPP GDP, gross domestic product (PPP)
+P4103	AUM
+P4350	saltiness
+P4442	average age
+P4511	depth, waterdepth
+P4519	deadweight
+P5043	abstentions
+P5044	informal votes, invalid votes, spoilt votes
+P5045	blank votes
+P5141	coastal line, sea shoreline
+P5167	motorization rate
+P5595	platforms, number of platforms, platform faces
+P5822	acceptance rate
+P6546	PIMS in career
+P6589	financial endowment
+P6590	highest break (snooker)
+P6591	highest temperature
+P6697	Deloitte Football Rank
+P6801	beds, hospital beds, number of beds
+P6897	literate population (%), percentage of literate population
+P7422	lowest temperature
+P8010	number recovered, recovered cases, number of, recovery, number of cases
+P8340	price estimation, traded cap, traded value, estimated worth
+P8477	Bertelsmann Transformation Index Status
+P569	DOB, birth date, birth year, birthdate, birthyear, born on, year of birth
+P570	DOD, dead, death, death date, died on, year of death, date of the end, deathdate
+P571	foundation, formation, introduction, formed in, date of establishment, date of founding, establishment date, founding date, introduced, created, built, commenced on date, commencement date, completed, constructed, construction date, created on date, creation date, date commenced, date constructed, date created, date formed, date founded, date incorporated, date of commencement, date of creation, date of foundation, date of foundation or creation, date of incorporation, dedication date, established, established on date, first issue, formation date, formed at, formed on date, foundation / creation date, foundation date, founded, founded on date, inaugurated, incorporated, incorporated on date, incorporation date, inititated, launch date, time of foundation or creation, time of inception, written on date, year commenced, year created, year established, year founded, year incorporated, year written, launched
+P575	date discovered, date of discovery, date of invention, discovered, discovered on, discovery date, discovery time, invented, time of discovery, time of invention
+P576	dissolved, end date, defunct, closed on, closure date, abolished, abolishment date, ceased to exist, date disbanded, date disestablished, date dissolved, date of dissolution, defunct date, demise date, demolished, destroyed in, disbanded, disbanded on, disestablished, dissolution date, dissolved on date, dissolved or abolished, dissolved, abolished, or demolished, ended, final issue, final year, folded, time abolished, time dissolved, time of abolishment, time of dissolution, wound up on date, date of demolition, demolition date
+P577	publication, dop, released in, launch date, date of publication, first published, first released, air date, airdate, date of first publication, date of release, date published, date released, first publication, initial release, pubdate, publication time, published, release date, released, time of publication, year of publication, launched
+P580	introduction, from, began, beginning, building date, from date, from time, introduced, since, start date, started in, starting, starttime, join date, join time
+P582	to, until, ending, cease date, cease operation, cease time, closed, completed in, dissolved, divorced, end date, enddate, ends, endtime, fall date, left office, stop time, till
+P585	date, year, time, when, as of, at time, during, event date, time of event, on, by date
+P606	FF, 1st flight, maiden flight, time of first flight
+P619	launch date, date of spacecraft launch, launch time, spacecraft launch date
+P620	landing date, landing time, spacecraft landing date, spacecraft landing time
+P621	decay date, time of spacecraft decay
+P622	docking date, time of spacecraft docking/undocking, undocking date
+P729	first light, commissioned, established, launch date, date of service entry, entered service, in service, service introduction, time of service entry
+P730	out of service, retirement, retired, decommissioned, date of service retirement, time of service retirement
+P746	last seen, disappeared, last known alive before disappearance, missing since, time of disappearance
+P1191	premiere, date of first performance, premiere date, time of first performance, first performance date
+P1249	date of first written record, earliest record, first historic record, first recorded in, first written record, time of prediction, first mentioned in writing
+P1317	circa, work period, fl, active, fl., flourished, known alive in, living, alive at
+P1619	introduction, grand opening, introduced, dedication date, inaugurated, launch date, date opened, official opening, officially opened on, opened, opening date, The official opening time
+P1636	baptism date, baptised, baptized, date baptism, date of baptism in early childhood, time of baptism, christening date, date of christening, christened, time of christening
+P2031	active since, fl. (start), floruit (start), floruit start, flourished (start), start time for work, years active, start date of activity, date of activity (start), work period start, work starts, career began, career start
+P2032	active until, end time for work, fl. (end), floruit (end of work), floruit end, flourished (end), years active end, end date of activity, date of activity (end), work ends
+P2669	EOL, ceased date, date discontinued, discontinuation date, end-of-life, discontinued, date of discontinuation, date product was discontinued, end-of-life date, EOL date
+P2754	date of production, production date, year of production
+P2913	date shown, depicts date, shown as at date, temporal coverage
+P3893	copyright end date, PD date
+P3999	closed, closed on, closed date, closing date, closure date, date of closure
+P4602	burial date, cremation date
+P6949	date announced, date of announcement, date of reveal, made public on, public announcement date
+P7295	adoption of the Gregorian calendar, first date (N.S.), Gregorian calendar first used
+P625	position, location, geolocation, co-ordinate location, co-ordinates, co-ords, coordinate location, coordinates, coords, geo, geocoordinates, geographic coordinate, geographical coordinates, geotag, gps, gps co-ordinate, gps co-ordinates, gps coordinate, gps coordinates, gps location, latitude, location on earth, Location on map, longitude, point on a map, point on earth, point on the globe, wgs 84, wgs-84, wgs84
+P1332	coordinate of northernmost point, extreme point north, farthest north, most northerly, northerly point, wikibase:geoLatitude ?max
+P1333	coordinate of southernmost point, extreme point south, farthest south, most south, southerly, wikibase:geoLatitude ?min
+P1334	coordinate of easternmost point, easterly, extreme point east, farthest east, most eastern, wikibase:geoLongitude ?E
+P1335	coordinate of westernmost point, extreme point west, extreme west, most western, westerly point, wikibase:geoLongitude ?W
+P2786	ARP, airfield reference point, airport reference point
+P5140	geographical center, geographical centre, geographical midpoint, coordinates of geographic centre, geographic center, geographic centre
