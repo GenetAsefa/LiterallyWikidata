@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "version": "1.4.1-dev"
+  },
+  "pipeline": {
+    "evaluation_kwargs": {
+      "batch_size": null
+    },
+    "evaluator": "rankbased",
+    "evaluator_kwargs": {
+      "filtered": true
+    },
+    "loss": "crossentropy",
+    "model": "complex",
+    "model_kwargs": {
+      "embedding_dim": 128,
+      "entity_initializer": "xavier_uniform",
+      "relation_initializer": "xavier_uniform"
+    },
+    "optimizer": "adam",
+    "optimizer_kwargs": {
+      "lr": 0.035375634209504056,
+      "weight_decay": 0.0
+    },
+    "regularizer": "no",
+    "testing": "../LitWD19K/test.txt",
+    "training": "../LitWD19K/train.txt",
+    "training_kwargs": {
+      "batch_size": 1024,
+      "label_smoothing": 0.5248621398749977,
+      "num_epochs": 200
+    },
+    "training_loop": "lcwa",
+    "validation": "../LitWD19K/valid.txt"
+  }
+}
