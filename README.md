@@ -1,9 +1,9 @@
-## LiterallyWikidata 
+# LiterallyWikidata 
 - A Benchmark for Knowledge Graph Completion using **Numeric** and **Text Literals** extracted from **Wikidata** and **Wikipedia**. 
 - It can be used to evaluate both **unimodal** and **multimodal** Knowledge Graph Embedding approaches. 
 - The collection contains three differnet datasets **LitWD1K**, **LitWD19K**, and **LitWD48K**. 
 
-# Dataset Statstics and Analysis
+## Dataset Statstics and Analysis
 |           | LitWD1K | LitWD19K | LitWD48K |
 |----------:|--------:|---------:|---------:|
 |\#Entities | 1,533   | 18,986   | 47,998   |
@@ -17,6 +17,8 @@
 |Connectivity| Yes | Yes | No|
 |Diameter| 5 | 7 | 8|
 |Density| 0.01235 | 0.0008 | 0.00014|
+- LitWD48K contains 3 connected components and the largest component contains 47,994 entities.
+- The diameter of the largest component of LitWD48K is 8.
 
 
 
