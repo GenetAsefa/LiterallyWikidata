@@ -20,11 +20,27 @@
 - We have extracted **labels**, **aliases**, and **descriptions** from wikidata for entities, relations, and attributes. There also long text descritions for entities extracted from the summary sections of thier corresponding **English**, **German**, **Russian**, and **Chinese** Wikipedia pages. 
 
 
-## Benchmarking
+## Benchmarking <!--- Results
 
-- Experiments have been done with three models **DistMult**, **ComplEx**, and **DistMultLiteral** on all datasets using [**Pykeen**](https://pykeen.readthedocs.io/en/latest/).  
+- Link predection experiments are conducted with three models **DistMult**, **ComplEx**, and **DistMultLiteral** on all datasets using [**Pykeen**](https://pykeen.readthedocs.io/en/latest/).  
+- the configurations for each of the models are given in the Benchmarking diectory. 
+
+<!--- ## LitWD1K
+
+<!--- #|| MRR| Hits@1| Hits@10 |
+#|----------:|--------:|---------:|
 
 
+
+<!--- ### LitWD19K
+|| MRR| Hits@1| Hits@10 |
+|----------:|--------:|---------:|
+
+<!--- ### LitWD48K
+|| MRR| Hits@1| Hits@10 |
+|----------:|--------:|---------:|
+
+-->
 
 
 
