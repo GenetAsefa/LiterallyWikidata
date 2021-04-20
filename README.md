@@ -10,10 +10,14 @@
 |\#Relations| 47   | 182   | 257   |
 |\#Attributes|81   | 151 |297|
 |\#Structured Triples|29,017 |288,933| 336,745|
-|\#Attributive Triples|10,988|63,951|324,418|
+|\#Numerical Attributive Triples|10,988|63,951|324,418|
 |\#Train|26,115|260,039|303,117|
 |\#Test|1,451|14,447|16,838|
 |\#Valid|1,451|14,447|16,838|
+
+# Literals
+
+- We have extracted labels, aliases, and descriptions from wikidata for entities, relations, and attributes. There also long text descritions for entities extracted from the summary sections of thier corresponding English, German, Russian, and Chinese Wikipedia pages. 
 
 
 
