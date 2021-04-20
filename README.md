@@ -14,11 +14,7 @@
 |\#Train|26,115|260,039|303,117|
 |\#Test|1,451|14,447|16,838|
 |\#Valid|1,451|14,447|16,838|
-|Connectivity| Yes | Yes | No|
-|Diameter| 5 | 7 | 8|
-|Density| 0.01235 | 0.0008 | 0.00014|
-- LitWD48K contains 3 connected components and the largest component contains 47,994 entities.
-- The diameter of the largest component of LitWD48K is 8.
+
 
 
 
