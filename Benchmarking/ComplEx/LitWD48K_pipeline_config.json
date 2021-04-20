@@ -28,7 +28,7 @@
     "training_kwargs": {
       "batch_size": 512,
       "label_smoothing": 0.5982916948634177,
-      "num_epochs": 200
+      "num_epochs": 1000
     },
     "training_loop": "lcwa",
     "validation": "../LitWD48K/valid.txt"
