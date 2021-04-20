@@ -3,7 +3,7 @@
 - It can be used to evaluate both **unimodal** and **multimodal** Knowledge Graph Embedding approaches. 
 - The collection contains three differnet datasets **LitWD1K**, **LitWD19K**, and **LitWD48K**. 
 
-## Dataset Statstics
+# Dataset Statstics and Analysis
 |           | LitWD1K | LitWD19K | LitWD48K |
 |----------:|--------:|---------:|---------:|
 |\#Entities | 1,533   | 18,986   | 47,998   |
@@ -14,6 +14,10 @@
 |\#Train|26,115|260,039|303,117|
 |\#Test|1,451|14,447|16,838|
 |\#Valid|1,451|14,447|16,838|
+|Connectivity| Yes | Yes | No|
+|Diameter| 5 | 7 | 8|
+|Density| 0.01235 | 0.0008 | 0.00014|
+
 
 
 
