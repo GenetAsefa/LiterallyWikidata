@@ -22,7 +22,7 @@
 
 ## Benchmarking
 
-- Experiments have been done with three models **DistMult**, **ComplEx**, and **DistMultLiteral** on all datasets using **Pykeen**.  
+- Experiments have been done with three models **DistMult**, **ComplEx**, and **DistMultLiteral** on all datasets using [**Pykeen**](https://pykeen.readthedocs.io/en/latest/).  
 
 
 
