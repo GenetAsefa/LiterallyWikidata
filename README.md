@@ -4,9 +4,11 @@
 - The collection contains three differnet datasets **LitWD1K**, **LitWD19K**, and **LitWD48K**. 
 
 ## Dataset Statstics
-|         |          | LitWD1K | LitWD19K | LitWD48K |
-|---------|---------:|--------:|---------:|---------:|
+|         |           | LitWD1K | LitWD19K | LitWD48K |
+|---------|----------:|--------:|---------:|---------:|
 |statstics|\#Entities | 1,533   | 18,986   | 47,998   |
+|         |\#Relations| 47   | 182   | 257   |
+
 
 
 
