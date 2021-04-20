@@ -5,7 +5,8 @@
 
 ## Dataset Statstics
 |         |          | LitWD1K | LitWD19K | LitWD48K |
-|statstics|#Entities | 1,533   | 18,986   | 47,998   |
+|---------|---------:|--------:|---------:|---------:|
+|statstics|\#Entities | 1,533   | 18,986   | 47,998   |
 
 
 
