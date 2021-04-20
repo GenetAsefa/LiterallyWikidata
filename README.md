@@ -17,7 +17,7 @@
 
 # Literals
 
-- We have extracted labels, aliases, and descriptions from wikidata for entities, relations, and attributes. There also long text descritions for entities extracted from the summary sections of thier corresponding English, German, Russian, and Chinese Wikipedia pages. 
+- We have extracted **labels**, **aliases**, and **descriptions** from wikidata for entities, relations, and attributes. There also long text descritions for entities extracted from the summary sections of thier corresponding **English**, **German**, **Russian**, and **Chinese** Wikipedia pages. 
 
 
 
