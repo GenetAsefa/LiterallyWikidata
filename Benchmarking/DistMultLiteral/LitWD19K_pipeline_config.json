@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "version": "1.4.1-dev"
+  },
+  "pipeline": {
+    "evaluator": "rankbased",
+    "evaluator_kwargs": {
+      "filtered": true
+    },
+    "loss": "crossentropy",
+    "model": "distmultliteral",
+    "model_kwargs": {
+      "embedding_dim": 128,
+      "input_dropout": 0.41576471137332655
+    },
+    "optimizer": "adam",
+    "optimizer_kwargs": {
+      "lr": 0.002241429766804164,
+      "weight_decay": 0.0
+    },
+    "regularizer": "lp",
+    "regularizer_kwargs": {
+      "p": 2,
+      "weight": 0.010747522573043658
+    },
+    "training_kwargs": {
+      "batch_size": 128,
+      "label_smoothing": 0.2655993043230962,
+      "num_epochs": 1000
+    },
+    "training_loop": "lcwa"
+  }
+}
