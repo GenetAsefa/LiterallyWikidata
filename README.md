@@ -1,4 +1,5 @@
 # LiterallyWikidata 
+- The dataset and implementation described in the [**paper**](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_30) accepted in ISWC 2021.
 - A Benchmark for Knowledge Graph Completion using **Numeric** and **Text Literals** extracted from **Wikidata** and **Wikipedia**. 
 - It can be used to evaluate both **unimodal** and **multimodal** Knowledge Graph Embedding approaches. 
 - The collection contains three differnet datasets **LitWD1K**, **LitWD19K**, and **LitWD48K**. 
