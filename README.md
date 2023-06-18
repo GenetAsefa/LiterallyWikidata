@@ -42,6 +42,33 @@
 |----------:|--------:|---------:|
 
 
+##Citation
 
-
+'''
+@inproceedings{GeseseAS21,
+  author       = {Genet Asefa Gesese and
+                  Mehwish Alam and
+                  Harald Sack},
+  editor       = {Andreas Hotho and
+                  Eva Blomqvist and
+                  Stefan Dietze and
+                  Achille Fokoue and
+                  Ying Ding and
+                  Payam M. Barnaghi and
+                  Armin Haller and
+                  Mauro Dragoni and
+                  Harith Alani},
+  title        = {LiterallyWikidata - {A} Benchmark for Knowledge Graph Completion Using
+                  Literals},
+  booktitle    = {The Semantic Web - {ISWC} 2021 - 20th International Semantic Web Conference,
+                  {ISWC} 2021, Virtual Event, October 24-28, 2021, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {12922},
+  pages        = {511--527},
+  publisher    = {Springer},
+  year         = {2021},
+  url          = {https://doi.org/10.1007/978-3-030-88361-4\_30},
+  doi          = {10.1007/978-3-030-88361-4\_30},
+}
+'''
 
