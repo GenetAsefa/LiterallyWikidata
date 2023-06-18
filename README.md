@@ -44,7 +44,7 @@
 
 ##Citation
 
-'''
+```
 @inproceedings{GeseseAS21,
   author       = {Genet Asefa Gesese and
                   Mehwish Alam and
@@ -70,5 +70,5 @@
   url          = {https://doi.org/10.1007/978-3-030-88361-4\_30},
   doi          = {10.1007/978-3-030-88361-4\_30},
 }
-'''
+```
 
