@@ -29,13 +29,13 @@
 <!--- ## LitWD1K
 
 <!--- #|| MRR| Hits@1| Hits@10 |
-#|----------:|--------:|---------:|
+#|----------:|--------:|---------:|-->
 
 
 
 <!--- ### LitWD19K
 || MRR| Hits@1| Hits@10 |
-|----------:|--------:|---------:|
+|----------:|--------:|---------:|-->
 
 <!--- ### LitWD48K
 || MRR| Hits@1| Hits@10 |
@@ -71,4 +71,6 @@
   doi          = {10.1007/978-3-030-88361-4\_30},
 }
 ```
+##Contact
 
+In case of any questions please open Github issue or alternatively contact [**Genet Asefa Gesese**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese) or [**Mehwish Alam**](https://sites.google.com/view/mehwish-alam/home).
